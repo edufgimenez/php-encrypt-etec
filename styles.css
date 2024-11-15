@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'OCR A Extended';
+    src: url('ocr-a-extended.ttf') format('truetype');
+}
+
+body {
+    background-color: black;
+    color: #00FF00; /* Cor verde mais fraca */
+    font-family: 'OCR A Extended';
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+input[type="text"] {
+    width: 500px;
+    padding: 20px;
+    margin: 10px 0;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+input[type="radio"] {
+    margin: 20px 20px;
+    transform: scale(1.5);
+}
+
+input[type="submit"] {
+    padding: 20px 40px;
+    background-color: #00FF00;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+
+footer {
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+    width: 100%;
+}
