@@ -57,7 +57,7 @@
         ?>
     </div>
     <footer>
-        <p>Desenvolvido por Eduardo Gimenez 2024</p>
+        <p>Desenvolvido por Eduardo Gimenez &bull; 2024 &trade;</p>
     </footer>
 </body>
 </html>
