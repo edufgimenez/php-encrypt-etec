@@ -5,7 +5,7 @@
 
 body {
     background-color: black;
-    color: #00FF00; /* Cor verde mais fraca */
+    color: #00FF00;
     font-family: 'OCR A Extended';
     display: flex;
     flex-direction: column;
